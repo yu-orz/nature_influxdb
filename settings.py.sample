@@ -1,0 +1,4 @@
+nature_api_token = ""
+influx_db_host = ""
+influx_db_name = ""
+influx_db_measurement = ""
